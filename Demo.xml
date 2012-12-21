@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Demo xmlns:i="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://schemas.datacontract.org/2004/07/ContentFramework.Core.Models">
+  <Id>BuildingDeployingMVC4</Id>
+  <Author>
+    <Name>Jon Galloway</Name>
+    <Blog>http://weblogs.asp.net/jgalloway</Blog>
+    <Email>jon.galloway@microsoft.com</Email>
+  </Author>
+  <Description>This demo script shows how to build an ASP.NET MVC 4 application using Entity Framework Code First Migrations and deploy to Windows Azure Web Sites.</Description>
+  <Document ConversionType="Html">Demo.md</Document>
+  <Title>Building and Deploying Web Sites with ASP.NET MVC 4</Title>
+  <Version>1.0.0</Version>
+  <Source></Source>
+  <DependencyChecker></DependencyChecker>
+  <CustomProperties>
+    <Property Name="GitHubRepository" Value="https://github.com/Microsoft-Web/DEMO-BuildingDeployingMVC4" />
+  </CustomProperties>
+</Demo>
